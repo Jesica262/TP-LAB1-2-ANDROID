@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">TrabajoPractico-Lab1</string>
+    <string name="app_name">Compra Venta</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Descripcion">Descripción (Opcional)</string>
+    <string name="CorreoElectronico">Correo de contacto</string>
+    <string name="Precio">Precio</string>
+    <string name="Categoria">Categoría</string>
+    <string name="direccion">Dirección de retiro</string>
+
 </resources>
